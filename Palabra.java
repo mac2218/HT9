@@ -1,3 +1,10 @@
+/*
+ * Daniel Machic 
+ * HT #9
+ * 21/04/2023
+ * Interface palabra
+ */
+
 public class Palabra implements Comparable<Palabra> {
 
 	private String spanish;

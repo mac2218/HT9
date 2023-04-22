@@ -1,3 +1,10 @@
+/*
+ * Daniel Machic 
+ * HT #9
+ * 21/04/2023
+ * Interface palabra
+ */
+
 import java.util.Comparator;
 
 public class ComparadorPalabras<T> implements Comparator<T> {

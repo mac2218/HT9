@@ -1,7 +1,8 @@
 /*
  * Daniel Machic 
  * HT #9
- * Interface que contiene los metodos de los arboles de mapeo
+ * 21/04/2023
+ * Interface palabra
  */
 
 package clases;
