@@ -2,7 +2,7 @@
  * Daniel Machic 
  * HT #9
  * 21/04/2023
- * Interface palabra
+ * Clase SplayTree
  */
 
 import java.util.Comparator;
